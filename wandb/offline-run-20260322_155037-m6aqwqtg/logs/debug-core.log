@@ -1,0 +1,10 @@
+{"time":"2026-03-22T15:50:38.393888154Z","level":"INFO","msg":"main: starting server","port-filename":"/tmp/tmpcencrf0v/port-8041.txt","pid":8041,"log-level":0,"disable-analytics":false,"shutdown-on-parent-exit":false,"enable-dcgm-profiling":false}
+{"time":"2026-03-22T15:50:38.395983107Z","level":"INFO","msg":"server: will exit if parent process dies","ppid":8041}
+{"time":"2026-03-22T15:50:38.395968753Z","level":"INFO","msg":"server: accepting connections","addr":{"Name":"/tmp/wandb-8041-14034-2238485964/socket","Net":"unix"}}
+{"time":"2026-03-22T15:50:38.470617981Z","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"1(@)"}
+{"time":"2026-03-22T15:50:38.478892211Z","level":"INFO","msg":"handleInformInit: received","streamId":"m6aqwqtg","id":"1(@)"}
+{"time":"2026-03-22T15:50:38.608955513Z","level":"INFO","msg":"handleInformInit: stream started","streamId":"m6aqwqtg","id":"1(@)"}
+{"time":"2026-03-22T15:50:39.127729419Z","level":"INFO","msg":"connection: cancelling request","id":"1(@)","requestId":"e72yhkldodwy"}
+{"time":"2026-03-22T16:26:38.928294428Z","level":"INFO","msg":"connection: cancelling request","id":"1(@)","requestId":"7sbn3ugy207y"}
+{"time":"2026-03-22T16:26:38.938799336Z","level":"INFO","msg":"handleInformFinish: finish message received","streamId":"m6aqwqtg","id":"1(@)"}
+{"time":"2026-03-22T16:26:38.940294327Z","level":"INFO","msg":"handleInformFinish: stream closed","streamId":"m6aqwqtg","id":"1(@)"}
